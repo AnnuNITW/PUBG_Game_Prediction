@@ -44,9 +44,10 @@ Now we can use this data for visualization as well which will help us get some i
 
 ![image](https://github.com/AnnuNITW/PUBG_Game_Prediction/assets/115100166/2f5231ff-4dd5-48ba-adc7-e0d3a335f2ba)
 
-These are just a few graphs that we can plot using the data. We can even perform EDA on this dataset. It all comes down to how creative you can be with the data. But for now, let’s focus on our new task i.e., Feature engineering.
+These are just a few graphs that we can plot using the data. We can even perform EDA on this dataset. It all comes down to how creative you can be with the data.
 
 FEATURE ENGINEERING : 
+
 Feature engineering is the process of creating new features or modifying existing features in a dataset in order to improve the performance of a machine learning model. In the context of the PUBG win prediction model, feature engineering might involve creating new features based on existing data or transforming existing features in a way that makes them more useful for the model.
 
 This might include normalizing the features.
@@ -56,7 +57,8 @@ Dropping unnecessary features which would only lead to increase in models comple
 Creating features based on combinations of existing features: For example, creating a new feature that represents the total number of kills a player made in a game, by summing up the number of kills made with each type of weapon.  
 
 CATBOOST MODEL :
-Let’s first take a look at why we chose the CatBoost Model for this dataset. 
+
+Let’s first take a look at why we choose the CatBoost Model for this dataset. 
 
 CatBoost is effective for working with categorical data: The PUBG game includes a number of categorical features, such as the type of equipment a player used or the location on the map where a player was killed. CatBoost is particularly effective for handling categorical data, as it can automatically encode the categories as numerical values and handle missing values.
 
