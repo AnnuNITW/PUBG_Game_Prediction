@@ -1,4 +1,8 @@
 # PUBG_Game_Prediction
+
+![image](https://github.com/AnnuNITW/PUBG_Game_Prediction/assets/115100166/cd4d55ee-4ecf-457e-82a0-07b295a5cdf7)
+
+
 PlayerUnknown's Battlegrounds (PUBG) is a popular online multiplayer battle royale game. In a battle royale game, players fight to be the last person
 or team standing. 
 In order to win a PUBG game, it is important to have a combination of skill, strategy, and luck.
