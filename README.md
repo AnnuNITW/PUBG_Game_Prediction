@@ -6,7 +6,11 @@ Now to predict the outcome of a game we need to train our model on a large datas
 player like the guns he used, average headshot rate, his group rank etc. The datasets we are going to use 29 features. These 29 features along with 
 the output of the game will be provided to train the model .
 
-DATA INFORMATION : 
+DATASET  INFORMATION : 
+![image](https://github.com/AnnuNITW/PUBG_Game_Prediction/assets/115100166/1a2119bc-a777-40ed-b018-e9d23f8f9503)
+
+
+DATA WRANGLING : 
 Data wrangling is the process of cleaning, organizing, and preparing data for analysis. In the context of the PUBG win prediction model, data wrangling would involve several steps to ensure that the data is in a usable form for the machine learning model.
 
 Some of the data wrangling tasks that might be performed include:
