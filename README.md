@@ -7,6 +7,10 @@ player like the guns he used, average headshot rate, his group rank etc. The dat
 the output of the game will be provided to train the model .
 
 DATASET  INFORMATION : 
+
+
+
+
 ![image](https://github.com/AnnuNITW/PUBG_Game_Prediction/assets/115100166/1a2119bc-a777-40ed-b018-e9d23f8f9503)
 
 
