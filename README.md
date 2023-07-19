@@ -19,6 +19,11 @@ DATASET  INFORMATION :
 ![image](https://github.com/AnnuNITW/PUBG_Game_Prediction/assets/115100166/1a2119bc-a777-40ed-b018-e9d23f8f9503)
 
 
+
+DATA COLLECTION FROM:
+https://www.kaggle.com/datasets/ashishjangra27/pubg-games-dataset
+
+
 DATA WRANGLING : 
 Data wrangling is the process of cleaning, organizing, and preparing data for analysis. In the context of the PUBG win prediction model, data wrangling would involve several steps to ensure that the data is in a usable form for the machine learning model.
 
