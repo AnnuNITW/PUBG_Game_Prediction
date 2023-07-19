@@ -1,6 +1,7 @@
 # PUBG_Game_Prediction
 
-![image](https://github.com/AnnuNITW/PUBG_Game_Prediction/assets/115100166/cd4d55ee-4ecf-457e-82a0-07b295a5cdf7)
+![image](https://github.com/AnnuNITW/PUBG_Game_Prediction/assets/115100166/dac519b4-7dc3-4a84-a390-4cfb67dffa16)
+
 
 
 PlayerUnknown's Battlegrounds (PUBG) is a popular online multiplayer battle royale game. In a battle royale game, players fight to be the last person
