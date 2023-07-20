@@ -84,5 +84,7 @@ After using CatBoost model for our dataset we can predict the performance using 
 
 Finally , we get good performance of our model ,there is no overfittiing by using Root mean squared error and R2 we see. 
 
+Guys if u like my working here , pls consider a Star . 
+
 
  
