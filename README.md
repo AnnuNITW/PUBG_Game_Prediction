@@ -82,4 +82,7 @@ After using CatBoost model for our dataset we can predict the performance using 
 
 ![image](https://github.com/AnnuNITW/PUBG_Game_Prediction/assets/115100166/b98ddaf8-a23d-4eff-8f96-c183e51c8c81)
 
+Finally , we get good performance of our model ,there is no overfittiing by using Root mean squared error and R2 we see. 
+
+
  
